@@ -1,6 +1,6 @@
 {
   "name": "@merarli/combination_and_permutation_js",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "JavaScript library for permutations and combinations",
   "main": "index.js",
   "license": "MIT",
