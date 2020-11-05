@@ -1,5 +1,5 @@
 {
-  "name": "combination_and_permutation_js",
+  "name": "@merarli/combination_and_permutation_js",
   "version": "1.0.0",
   "description": "JavaScript library for permutations and combinations",
   "main": "index.js",
